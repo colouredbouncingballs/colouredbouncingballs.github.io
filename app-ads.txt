@@ -64,7 +64,6 @@ tredio.io, 357a6fdf7642bf815a88822c447d9dc432901, RESELLER
 waardex.com, 99236, RESELLER
 adtonos.com, PUB2356156682, RESELLER
 theaudiencestreet.com, TAS-703, RESELLER
-growzee.io, cd9d1950-1f84-4645-80f4-bdbaa23548a0, RESELLER
 adingenious.com, 75036, RESELLER
 carbonatix.com, 141073554, RESELLER
 keenkale.com, 841, RESELLER
@@ -73,7 +72,7 @@ bold-win.com, 148, RESELLER, 71746737d0bab951
 lijit.com, 481366, RESELLER, fafdf38b16bf6b2b
 videoheroes.tv, 212430, RESELLER, 064bc410192443d8
 video.unrulymedia.com, 188404962, RESELLER
-themediagrid.com, JAZ4RI, RESELLER, 35d5010d7789b49d
+mman.kr, 32102, RESELLER
 lijit.com, 502742, RESELLER, fafdf38b16bf6b2b
 rubiconproject.com, 26168, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 26192, RESELLER, 0bfd66d529a55807
@@ -90,3 +89,6 @@ e-planning.net, 608359bb987625b2, RESELLER, c1ba615865ed87b2
 pubmatic.com, 157559, RESELLER, 5d62403b186f2ace
 sonobi.com, 45dd948092, RESELLER, d1a215d9eb5aee9e
 thunder-monetize.com, 3905806597, RESELLER
+eliteappgrade.com, 514554, RESELLER
+themediasense.com, 1147, RESELLER
+mobismarter.com, 3294, RESELLER
